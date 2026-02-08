@@ -26,7 +26,7 @@ export default function AboutPage() {
                 <div className="space-y-8 text-sm md:text-base leading-relaxed text-gray-800 dark:text-gray-200">
                     <div className="space-y-6">
                         <p>
-                            Claudia Rosel is a visual storyteller focused on displacement and environmental issues. Her photography has been published by the Associated Press, The Washington Post, The Guardian, El País, Le Monde, the Pulitzer Centre, UN News, and PBS NewsHour.
+                            Claudia Rosel is a visual storyteller focused on displacement and environmental issues. Her photography has been published by the Associated Press, The Washington Post, The Guardian, El PaÃ­s, Le Monde, the Pulitzer Centre, UN News, and PBS NewsHour.
                         </p>
                         <p>
                             She previously worked full time in the humanitarian sector, covering crises such as droughts, human trafficking, and natural-resource conflicts in East Africa.
@@ -54,7 +54,7 @@ export default function AboutPage() {
                             </li>
                             <li className="grid grid-cols-[40px_1fr] gap-4">
                                 <span>
-                                    <strong className="text-gray-900 dark:text-gray-200">REVIVAL</strong> — short documentary, U.S. festival premiere forthcoming
+                                    <strong className="text-gray-900 dark:text-gray-200">REVIVAL</strong> â€” short documentary, U.S. festival premiere forthcoming
                                 </span>
                             </li>
                         </ul>
