@@ -11,7 +11,7 @@ export default function JournalPage() {
     return (
         <ProjectGallery
             title="Travel Journal"
-            description="Fragments of places, faces, and moments from around the world."
+            description="An extensive grid of travel photographs. Click into each image to linger."
             images={images}
         />
     )

@@ -10,7 +10,7 @@ export default function ElectricAvenuePage() {
     return (
         <ProjectGallery
             title="Electric Avenue"
-            description="Urban rhythms and neon nights."
+            description="A film-style series of photographs from Nairobi’s nightlife district, scanned from Yashica film."
             images={images}
         />
     )

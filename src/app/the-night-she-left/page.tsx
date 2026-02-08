@@ -36,7 +36,7 @@ export default function TheNightSheLeftPage() {
                 {/* Text Block 2 */}
                 <div className="text-center max-w-xl mx-auto space-y-8 text-lg md:text-xl font-serif italic leading-relaxed">
                     <p>
-                        We left the house, my cousins, my friends and the garden where my grandparents raised four kids, bringing together two cultures across the valley of vino tinto and pintxos, of pollo en adobo and pancit.
+                        We left the house, my cousins, my friends, and the garden where my grandparents raised four kids, bringing together two cultures across the valley of vino tinto and pintxos, of pollo en adobo and pancit.
                     </p>
                 </div>
 
@@ -52,7 +52,7 @@ export default function TheNightSheLeftPage() {
                     </div>
                     <div className="flex items-center justify-center p-8">
                         <p className="font-serif italic text-lg leading-relaxed text-center">
-                            We left so we could rebuild - whatever life was left - after I met death for the first time, when it took away my little sister late at night.
+                            We left so we could rebuild whatever life was left after I met death for the first time, when it took my little sister late at night.
                         </p>
                     </div>
                 </div>
@@ -60,7 +60,7 @@ export default function TheNightSheLeftPage() {
                 {/* Text Block 3 */}
                 <div className="text-center max-w-xl mx-auto space-y-8 text-lg md:text-xl font-serif italic leading-relaxed">
                     <p>
-                        Things got blurred for a while. We moved to a small apartment, then to a larger one, until we settled in a thirteen floor, high above the heart of the city, where my abuelo once sold Levi’s jeans, and my uncle after him, to this day.
+                        Things got blurred for a while. We moved to a small apartment, then to a larger one, until we settled on the thirteenth floor, high above the heart of the city, where my abuelo once sold Levi's jeans, and my uncle after him, to this day.
                     </p>
                 </div>
 
@@ -77,10 +77,10 @@ export default function TheNightSheLeftPage() {
                 {/* Ending */}
                 <div className="text-center max-w-xl mx-auto space-y-8 text-lg md:text-xl font-serif italic leading-relaxed">
                     <p>
-                        One night, sleeping pills disappeared from the bedside table, instead, travel guides, books and movies filled the shelves.
+                        One night, sleeping pills disappeared from the bedside table. In their place, travel guides, books, and movies filled the shelves.
                     </p>
                     <p>
-                        Some memories from those years were lost forever, and the more moments we create, the more I try to remember them.
+                        I made new friends, I lost others. Some memories from those years were lost forever, and the more moments we create, the more I try to remember them.
                     </p>
                     <div className="pt-12 text-sm not-italic font-sans uppercase tracking-widest text-gray-500">
                         For Paula
@@ -91,3 +91,4 @@ export default function TheNightSheLeftPage() {
         </div>
     )
 }
+

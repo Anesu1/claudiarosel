@@ -37,11 +37,25 @@ export default function RootLayout({
           <main className="pt-24 min-h-screen ">
             {children}
           </main>
-          <footer className="py-12 px-6 border-t border-gray-100 dark:border-gray-800 mt-20 text-center text-xs uppercase tracking-widest text-gray-500">
-            © {new Date().getFullYear()} CLAUDIA ROSEL
+          <footer className="py-12 px-6 border-t border-gray-100 dark:border-gray-800 mt-20 text-center text-xs uppercase tracking-widest text-gray-500 space-y-4">
+            <div>© {new Date().getFullYear()} Claudia Rosel</div>
+            <div className="flex flex-col md:flex-row items-center justify-center gap-3 md:gap-6 text-[10px] tracking-[0.2em]">
+              <a className="hover:text-gray-800 dark:hover:text-gray-200 transition-colors" href="mailto:claudiaroselphoto@gmail.com">
+                claudiaroselphoto [at] gmail dot com
+              </a>
+              <span className="hidden md:inline">•</span>
+              <a className="hover:text-gray-800 dark:hover:text-gray-200 transition-colors" href="https://x.com" target="_blank" rel="noreferrer">
+                X / Twitter
+              </a>
+              <span className="hidden md:inline">•</span>
+              <a className="hover:text-gray-800 dark:hover:text-gray-200 transition-colors" href="https://instagram.com" target="_blank" rel="noreferrer">
+                Instagram
+              </a>
+            </div>
           </footer>
         </SmoothScroll>
       </body>
     </html>
   );
 }
+

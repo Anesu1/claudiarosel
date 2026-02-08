@@ -11,7 +11,7 @@ export default function MexicanTalesPage() {
     return (
         <ProjectGallery
             title="Mexican Tales"
-            description="A visual exploration of culture, tradition, and modern life in Mexico."
+            description="“Dejemos al menos flores. Dejemos al menos cantos.” A gallery dedicated to Mexican traditions."
             images={images}
         />
     )

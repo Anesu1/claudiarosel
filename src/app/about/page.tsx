@@ -18,7 +18,7 @@ export default function AboutPage() {
                     </div>
                     <div className="text-xs text-gray-500 uppercase tracking-widest flex justify-between">
                         <span>Mexico City / Madrid</span>
-                        <span>claudiaroselphoto [at] gmail (dot) com</span>
+                        <span>claudiaroselphoto [at] gmail dot com</span>
                     </div>
                 </div>
 
@@ -26,68 +26,35 @@ export default function AboutPage() {
                 <div className="space-y-8 text-sm md:text-base leading-relaxed text-gray-800 dark:text-gray-200">
                     <div className="space-y-6">
                         <p>
-                            Claudia Rosel is a visual storyteller whose work focuses on displacement and environmental issues. Her photography has been published by the Associated Press, The Guardian, The Washington Post, and El PaÃ­s, among others. She is a recipient of two Pulitzer Center Crisis Reporting Grants and the Overseas Press Club Scholar Fellowship, and holds an MS Documentary from Columbia Journalism School.
+                            Claudia Rosel is a visual storyteller focused on displacement and environmental issues. Her photography has been published by the Associated Press, The Washington Post, The Guardian, El País, Le Monde, the Pulitzer Centre, UN News, and PBS NewsHour.
                         </p>
                         <p>
-                            She previously worked full time in the humanitarian sector, spending five years based between Kenya and Somalia covering major crises across the region, including droughts, human trafficking and natural-resource conflicts.
+                            She previously worked full time in the humanitarian sector, covering crises such as droughts, human trafficking, and natural-resource conflicts in East Africa.
                         </p>
                         <p>
-                            Her work also spans documentary and fiction film, where she has directed, produced, and edited independent projects. Her short documentary <strong>REVIVAL (2026)</strong> is set to premiere at U.S. festivals this year.
+                            Her work spans documentary and fiction film. Her short documentary <strong>REVIVAL</strong> is slated to premiere at U.S. festivals.
                         </p>
                         <p>
-                            Claudia brings a global lens to her work, rooted in a deep respect for local cultures. She is a certified PADI Advanced/Rescue Diver and has received SSAFE training.
+                            Claudia brings a global lens to her work, rooted in deep respect for local cultures. She is a certified PADI Advanced/Rescue Diver and has completed SSAFE training.
                         </p>
                     </div>
 
                     <div className="pt-8 border-t border-gray-200 dark:border-gray-800">
-                        <h3 className="text-sm font-bold uppercase tracking-widest mb-6 text-black dark:text-white">Fellowships, Grants & Exhibitions</h3>
+                        <h3 className="text-sm font-bold uppercase tracking-widest mb-6 text-black dark:text-white">Fellowships & Grants</h3>
                         <ul className="space-y-4 text-sm text-gray-600 dark:text-gray-400">
                             <li className="grid grid-cols-[40px_1fr] gap-4">
-                                <span className="text-gray-400 font-mono text-xs pt-1">2025</span>
                                 <span>
-                                    <strong className="text-gray-900 dark:text-gray-200">REVIVAL DOCFest premier</strong> NYC
+                                    <strong className="text-gray-900 dark:text-gray-200">Pulitzer Centre Crisis Reporting Grants</strong> (two awards)
                                 </span>
                             </li>
                             <li className="grid grid-cols-[40px_1fr] gap-4">
-                                <span className="text-gray-400 font-mono text-xs pt-1">2025</span>
                                 <span>
-                                    <strong className="text-gray-900 dark:text-gray-200">Pulitzer Centre Crisis Reporting Grant</strong> (Columbia University)
+                                    <strong className="text-gray-900 dark:text-gray-200">Overseas Press Club Scholar Fellowship</strong>
                                 </span>
                             </li>
                             <li className="grid grid-cols-[40px_1fr] gap-4">
-                                <span className="text-gray-400 font-mono text-xs pt-1">2025</span>
                                 <span>
-                                    <strong className="text-gray-900 dark:text-gray-200">Pulitzer Centre Crisis Reporting Fellow</strong> (Campus Consortium)
-                                </span>
-                            </li>
-                            <li className="grid grid-cols-[40px_1fr] gap-4">
-                                <span className="text-gray-400 font-mono text-xs pt-1">2025</span>
-                                <span>
-                                    <strong className="text-gray-900 dark:text-gray-200">Overseas Press Club Foundation Scholar Fellow</strong>
-                                </span>
-                            </li>
-                            <li className="grid grid-cols-[40px_1fr] gap-4">
-                                <span className="text-gray-400 font-mono text-xs pt-1">2025</span>
-                                <span>
-                                    Exhibition <strong className="text-gray-900 dark:text-gray-200">Invisible Walls</strong>, Pulitzer Hall, Columbia University
-                                </span>
-                            </li>
-                            <li className="grid grid-cols-[40px_1fr] gap-4">
-                                <span className="text-gray-400 font-mono text-xs pt-1">2025</span>
-                                <span>
-                                    <strong className="text-gray-900 dark:text-gray-200">Flow Trip Photo Contest</strong> - Honorable Mention
-                                </span>
-                            </li>
-                            <li className="grid grid-cols-[40px_1fr] gap-4">
-                                <span className="text-gray-400 font-mono text-xs pt-1">2024</span>
-                                <span>
-                                    <strong className="text-gray-900 dark:text-gray-200">La Caixa Post-Graduate Fellow</strong>
-                                </span>
-                            </li>
-                            <li className="grid grid-cols-[40px_1fr] gap-4">
-                                <span className="text-gray-400 font-mono text-xs pt-1">2023</span>
-                                <span>
-                                    <strong className="text-gray-900 dark:text-gray-200">Eddie Adams Workshop</strong> - Tie Dye
+                                    <strong className="text-gray-900 dark:text-gray-200">REVIVAL</strong> — short documentary, U.S. festival premiere forthcoming
                                 </span>
                             </li>
                         </ul>
@@ -97,3 +64,5 @@ export default function AboutPage() {
         </div>
     )
 }
+
+
